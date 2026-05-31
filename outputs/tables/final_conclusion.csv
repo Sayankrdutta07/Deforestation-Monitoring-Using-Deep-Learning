@@ -1,0 +1,6 @@
+Conclusion
+Three deep learning models were developed and evaluated.
+Transfer learning approaches outperformed the custom CNN model.
+EfficientNetB0 achieved the highest binary accuracy.
+ResNet50 demonstrated excellent ROC performance across multiple classes.
+Deep learning can effectively support automated deforestation monitoring using satellite imagery.

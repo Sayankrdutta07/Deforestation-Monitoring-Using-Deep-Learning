@@ -1,0 +1,4 @@
+Model,Strength,Limitation
+Custom CNN,Simple architecture and fast training,Lower performance compared to transfer learning
+EfficientNetB0,Highest validation accuracy and efficient transfer learning,Requires pretrained weights
+ResNet50,Strong feature extraction with excellent ROC performance,Higher computational complexity
